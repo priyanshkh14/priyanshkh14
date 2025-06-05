@@ -27,11 +27,11 @@
 - **ML/DL:** Keras, Matplotlib, Numpy, Pandas, Tensorflow, Scikit-learn, Scipy, Plotly, Pytorch
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=priyanshkh14&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=priyanshkh14&theme=dracula&hide_border=false)<br/>
 
-## 👨‍💻 Coding Profile
+## 🌐 Socials
 <br/>
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/priyansh-khajuria-39694023b/"">
@@ -52,4 +52,6 @@
 Feel free to reach out to me!
 - **Email:** priyanshkh14@gmail.com
 - **LinkedIn:** [Priyansh's LinkedIn](https://www.linkedin.com/in/priyansh-khajuria-39694023b/)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
 ---
