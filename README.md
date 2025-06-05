@@ -4,7 +4,7 @@
 
 <img align="right" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="230" />
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
  👨🏻‍🎓 Final-year Computer Science student from India, passionate about software development and product building.
 
