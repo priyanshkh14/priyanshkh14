@@ -27,10 +27,6 @@
 - **ML/DL:** Keras, Matplotlib, Numpy, Pandas, Tensorflow, Scikit-learn, Scipy, Plotly, Pytorch
 
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=priyanshkh14&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=priyanshkh14&theme=dracula&hide_border=false)<br/>
-
 ## 🌐 Socials
 <br/>
  <div id="badges" align="center">
