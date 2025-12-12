@@ -21,9 +21,9 @@
 
 ## 💻 Skills & Technologies
 - **Programming Languages:** JavaScript, Python, MySQL, C++, TypeScript
-- **Development:** HTML, CSS, React, Next.js, Node.js, Express.js, TailwindCSS, MaterialUI, Shadcn-UI
+- **Development:** HTML, CSS, React, Next.js, Node.js, Express.js, TailwindCSS, MaterialUI, Django
 - **Databases:** MySQL, MongoDB, PostgreSQL, Firebase, Supabase, Redis, Firebase
-- **Tools & Technologies:** VSCode, Clerk, Git, Docker, AWS, Google Cloud Platform, Postman, Vercel, Render, Kafka
+- **Tools & Technologies:** VSCode, Git/Github, Docker, AWS, Google Cloud Platform, Postman, Vercel, Kafka
 - **ML/DL:** Keras, Matplotlib, Numpy, Pandas, Tensorflow, Scikit-learn, Scipy, Plotly, Pytorch
 
 
