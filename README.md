@@ -16,7 +16,7 @@
 
  - 👨‍💻 Projects -  [Barks & Whiskers](https://barks-and-whiskers.onrender.com/) , [Sign to Speech](https://github.com/priyanshkh14/audio-sign-to-speech)
  - 📍 **Resume** -  [Resume](https://drive.google.com/file/d/1BE2yILhTN3KTppa_W-GsG_VAb4ogGgaa/view?usp=sharing)
- - 👨‍💻 **Portfolio** - [Portfolio](https://priyanshkhajuria.vercel.app/)
+ - 👨‍💻 **Portfolio** - [Portfolio](https://priyanshkhajuria.website/)
 
 
 ## 💻 Skills & Technologies
