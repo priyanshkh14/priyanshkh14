@@ -15,7 +15,7 @@
  🛠️ Tech Stack: React.js, Next.js, JavaScript, Node.js, Express, Python, SQL/NoSQL, WebSockets, AWS.
 
  - 👨‍💻 Projects -  [Barks & Whiskers](https://barks-and-whiskers.onrender.com/) , [Sign to Speech](https://github.com/priyanshkh14/audio-sign-to-speech)
- - 📍 **Resume** -  [Resume](https://drive.google.com/file/d/1BE2yILhTN3KTppa_W-GsG_VAb4ogGgaa/view?usp=sharing)
+ - 📍 **Resume** -  [Resume](https://drive.google.com/file/d/19s2m7v1zvBrjpRhpXJe44SrbYWbo_aqV/view?usp=sharing)
  - 👨‍💻 **Portfolio** - [Portfolio](https://priyanshkhajuria.website/)
 
 
