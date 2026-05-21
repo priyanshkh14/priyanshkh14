@@ -29,7 +29,7 @@
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyanshkhajuria-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyansh-khajuria-39694023b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyanshkhajuria-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyanshkhajuria)
 [![Email](https://img.shields.io/badge/Email-priyanshkh14@gmail.com-red?style=flat&logo=gmail)](mailto:priyanshkh14@gmail.com)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
