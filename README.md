@@ -27,27 +27,10 @@
 - **ML/DL:** Keras, Matplotlib, Numpy, Pandas, Tensorflow, Scikit-learn, Scipy, Plotly, Pytorch
 
 
-## 🌐 Socials
-<br/>
- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/priyansh-khajuria-39694023b/"">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://leetcode.com/u/priyanshkh14/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-</a>
+### Connect
 
- <a href="https://discord.gg/681862045595205644">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-</div>
-
-## 📫 Contact
-Feel free to reach out to me!
-- **Email:** priyanshkh14@gmail.com
-- **LinkedIn:** [Priyansh's LinkedIn](https://www.linkedin.com/in/priyansh-khajuria-39694023b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyanshkhajuria-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyansh-khajuria-39694023b/)
+[![Email](https://img.shields.io/badge/Email-priyanshkh14@gmail.com-red?style=flat&logo=gmail)](mailto:priyanshkh14@gmail.com)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
 ---
